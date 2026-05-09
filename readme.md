@@ -29,24 +29,6 @@
 🌙 dark mode + pink aesthetics
 
 
-# 🌷 about me.exe
-
-class Developer:
-    def __init__(self):
-        self.name = "Anshika"
-        self.role = "Aspiring Software Engineer"
-        self.interests = ["Open Source", "AIML", "Web Development"]
-        self.mindset = "learn, build, improve"
- def goals(self):
-        return [
-            "Build impactful products",
-            "Contribute to open source",
-            "Keep learning new technologies",
-            "Grow into a great engineer"
-        ]
-
-
-
 
 
 
@@ -54,31 +36,14 @@ class Developer:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,mongodb,firebase,figma,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,c++,matplotlib,vscode,streamlit,seaborn,github,git&theme=dark" />
 
 </div>
 
 
 
-# 🌸 github energy
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-
-</div>
 
 
-
-# 🐍 contribution snake because why not
-
-<div align="center">
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 
 
