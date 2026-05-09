@@ -1,6 +1,6 @@
 # 🌸 My profile
 
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20to%20my%20world%20✨&fontAlign=50&fontAlignY=40&desc=pretty%20code%20%2B%20chaotic%20energy%20💖&descAlignY=60" />
@@ -18,7 +18,7 @@
 
 # 🌸 currently focused on
 
-```txt
+
 🚀 building impactful projects
 📚 learning modern technologies
 🌍 contributing to open source
@@ -27,32 +27,28 @@
 🎵 Pahadi music
 💭 random startup ideas at 2am
 🌙 dark mode + pink aesthetics
-````
 
----
 
 # 🌷 about me.exe
 
-```python
 class Developer:
     def __init__(self):
         self.name = "Anshika"
         self.role = "Aspiring Software Engineer"
         self.interests = ["Open Source", "AIML", "Web Development"]
         self.mindset = "learn, build, improve"
-
-    def goals(self):
+ def goals(self):
         return [
             "Build impactful products",
             "Contribute to open source",
             "Keep learning new technologies",
             "Grow into a great engineer"
         ]
-```
 
-```
 
----
+
+
+
 
 # ✨ my little tech universe
 
@@ -62,7 +58,7 @@ class Developer:
 
 </div>
 
----
+
 
 # 🌸 github energy
 
@@ -74,7 +70,7 @@ class Developer:
 
 </div>
 
----
+
 
 # 🐍 contribution snake because why not
 
@@ -84,7 +80,7 @@ class Developer:
 
 </div>
 
----
+
 
 # 🚀 current journey
 
@@ -103,7 +99,7 @@ class Developer:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-c77dff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anshika-sajwan-0523512a9)
 
----
+
 
 <div align="center">
 
@@ -112,5 +108,5 @@ class Developer:
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=pretty+visitors&color=ff69b4&style=flat" />
 
 </div>
-'''
+
 
