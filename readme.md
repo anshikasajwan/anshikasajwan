@@ -70,7 +70,7 @@
 
 ### ✨ "Small progress every day becomes big success tomorrow."
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=pretty+visitors&color=ff69b4&style=flat" />
+
 
 </div>
 
